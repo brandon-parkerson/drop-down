@@ -13,6 +13,10 @@ function dropDown() {
   hamburgerItems.classList.toggle("hidden");
 }
 
+function consoleTest() {
+  console.log("drop-downingling says hi!");
+}
+
 hamburgerClicked();
 
-export { dropDown, hamburgerClicked };
+export { dropDown, hamburgerClicked, consoleTest };
