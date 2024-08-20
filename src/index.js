@@ -14,3 +14,5 @@ function dropDown() {
 }
 
 hamburgerClicked();
+
+export { dropDown, hamburgerClicked };
