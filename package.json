@@ -9,5 +9,8 @@
     "webpack-dev-server": "^5.0.4"
   },
   "name": "drop-downingling",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "drop-downingling": "^2.0.0"
+  }
 }
