@@ -1,0 +1,32 @@
+.menu .line {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+
+
+a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  line-height: 2em;
+}
+
+.menu-items {
+  background-color: rgb(216, 213, 213);
+  width: 10%;
+  padding: 5px;
+}
+
+.menu:hover {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+
